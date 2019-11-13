@@ -1,0 +1,5 @@
+# AED-2019.2
+Para entrega do trabalho de AED
+Árvore implementada com base no livro: Algoritmos: Teoria e Prática de Thomas H. Cormen.
+
+Com esse programa você pode inserir nós e visualizar-los em ordem, pré-ordem e pós-ordem.git
